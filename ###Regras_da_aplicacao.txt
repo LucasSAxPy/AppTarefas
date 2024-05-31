@@ -1,0 +1,8 @@
+Criar um sistema de tarefas, aonda podemos:
+
+-Adicionar uma nova tarefa;
+-Alterar uma tarefa;
+-Exluir uma tarefa;
+-Marcar como concluida;
+
+Fazer em cmd e tkinter
